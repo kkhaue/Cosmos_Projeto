@@ -5,7 +5,9 @@ Copyright © 2022 de Khaue Maciel De Ramos
 Todos os direitos reservados. Este código e plataforma ou qualquer parte dele não pode ser reproduzido ou usado de forma alguma sem autorização expressa, por escrito, do autor, exceto pelo uso de citações breves em uma resenha da plataforma.
 
 
-Projeto que fiz para a conclusão de curso, para executar basta ter o Pyhton e o Kivy instalado, após basta clicar duas vezes no Cosmos.py que irá abrir a plataforma.
+Projeto que fiz para a conclusão do ano, para executar basta ter o Pyhton e o Kivy instalado, após basta clicar duas vezes no Cosmos.py que irá abrir a plataforma.
+
+Link da plataforma: https://www.appcosmos.online/
 
 Para instalar o Kivy:
 
